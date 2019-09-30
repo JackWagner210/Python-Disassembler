@@ -4,6 +4,7 @@ ARM LegV8 disassembler written in python.
 Given a .txt file of 32bit ARM machine code, produces a formated file with a seperated binary, address number, and assembly instuctions.
 
 Ex input:
+
 10001011000000100000000000100011
 
 11001011000000100000000000100011
